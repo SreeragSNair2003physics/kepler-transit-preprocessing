@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.fits
+*.part
+*.npz
+aws_downloads/
